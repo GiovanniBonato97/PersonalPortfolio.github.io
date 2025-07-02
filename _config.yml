@@ -3,14 +3,14 @@ logo: /assets/img/IMG_2609.heic
 #description:
 show_downloads: true
 
-##IT SKILLS
-###Microsoft Office (Excel, Word, Power Point)
-###BI tools (Power BI, Tableau, SQL basics)
-###Programming (R Studio, Python, Matlab)
+IT SKILLS
+Microsoft Office (Excel, Word, Power Point)
+BI tools (Power BI, Tableau, SQL basics)
+Programming (R Studio, Python, Matlab)
 
-##Languages
-###Italian: Native speaker
-###English: Level C1 (Advanced) - IELTS Academic certificate
-###Spanish: Upper Intermediate
+Languages
+Italian: Native speaker
+English: Level C1 (Advanced) - IELTS Academic certificate
+Spanish: Upper Intermediate
 
 theme: jekyll-theme-minimal
