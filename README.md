@@ -62,6 +62,14 @@
 #### Adapted quickly to different venues and clientele needs, demonstrating flexibility and professionalism.
 
 
+# IT SKILLS
+### - Microsoft Office (Excel, Word, Power Point)
+### - BI tools (Power BI, Tableau, SQL basics)
+### - Programming (R Studio, Python, Matlab)
 
+# Languages
+### - Italian: Native speaker
+### - English: Level C1 (Advanced) - IELTS Academic certificate
+### - Spanish: Upper Intermediate
 
 
