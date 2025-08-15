@@ -1,15 +1,17 @@
-# Student
+# Giovanni Bonato - Student
 
 
 # My Projects
 
+## BI visualizations:
 
+### - 1) US House market insights (1892 - 2010): https://app.powerbi.com/groups/569e6833-df25-40ab-a413-b80cd299144f/reports/59790a9f-056a-4b3c-8341-1f6cdbc019c8/a8ffa96c32c3da7c8fdc?experience=power-bi
+### - 2) Insurance risk premium settings (Theft vehicles in New Zealand 2021-2022): https://app.powerbi.com/groups/me/reports/5fab1835-5c4a-4a82-a66f-66f9a4f75c32/e2caef68b16500532680?experience=power-bi
+### - 3) Interactive dashboard: Stress level, Productivity, Isolation and Company support in remote working: https://app.powerbi.com/groups/me/reports/84fd12fb-d79b-4ab4-a09b-c8f32948632c/58cf61336bbcd188139c?experience=power-bi
 
-### - US House market 1892 - 2010: https://app.powerbi.com/groups/569e6833-df25-40ab-a413-b80cd299144f/reports/59790a9f-056a-4b3c-8341-1f6cdbc019c8/a8ffa96c32c3da7c8fdc?experience=power-bi
-### - Insurance risk premium settings (Theft vehicles in New Zealand 2021-2022): https://app.powerbi.com/groups/me/reports/5fab1835-5c4a-4a82-a66f-66f9a4f75c32/e2caef68b16500532680?experience=power-bi
-### - Interactive dashboard: Stress level, Productivity, Isolation and Company support in remote working: https://app.powerbi.com/groups/me/reports/84fd12fb-d79b-4ab4-a09b-c8f32948632c/58cf61336bbcd188139c?experience=power-bi
+## AI learnings
 
-
+### 
 
 # Education
 
