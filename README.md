@@ -5,13 +5,21 @@
 
 ## BI visualizations:
 
-### - 1) US House market insights (1892 - 2010): https://app.powerbi.com/groups/569e6833-df25-40ab-a413-b80cd299144f/reports/59790a9f-056a-4b3c-8341-1f6cdbc019c8/a8ffa96c32c3da7c8fdc?experience=power-bi
-### - 2) Insurance risk premium settings (Theft vehicles in New Zealand 2021-2022): https://app.powerbi.com/groups/me/reports/5fab1835-5c4a-4a82-a66f-66f9a4f75c32/e2caef68b16500532680?experience=power-bi
-### - 3) Interactive dashboard: Stress level, Productivity, Isolation and Company support in remote working: https://app.powerbi.com/groups/me/reports/84fd12fb-d79b-4ab4-a09b-c8f32948632c/58cf61336bbcd188139c?experience=power-bi
+#### - 1) US House market insights (1892 - 2010): https://app.powerbi.com/groups/569e6833-df25-40ab-a413-b80cd299144f/reports/59790a9f-056a-4b3c-8341-1f6cdbc019c8/a8ffa96c32c3da7c8fdc?experience=power-bi
+
+#### - 2) Insurance risk premium settings (Theft vehicles in New Zealand 2021-2022): https://app.powerbi.com/groups/me/reports/5fab1835-5c4a-4a82-a66f-66f9a4f75c32/e2caef68b16500532680?experience=power-bi
+
+#### - 3) Interactive dashboard: Stress level, Productivity, Isolation and Company support in remote working: https://app.powerbi.com/groups/me/reports/84fd12fb-d79b-4ab4-a09b-c8f32948632c/58cf61336bbcd188139c?experience=power-bi
 
 ## AI learnings
 
-### 
+#### - 1) This analysis used AI-driven document retrieval, similarity analysis, and customer review mining to evaluate MobTel’s retail performance.
+#### Report available at: https://kaplanausstudent-my.sharepoint.com/:w:/g/personal/1847578_kaplanstudent_edu_au/IQCODDBx68DPQZeMw5S-WUeAAfhta0NVi6vVsrEtT12lGCY?e=8fgQXg
+#### Code available at: https://colab.research.google.com/drive/1aWUAZSrQQaWvzT2F4MRDRILqCXNVa_0v
+
+#### -2) This report aims to develop an effective strategy to improve customer retention and optimize revenues for TechSaaS Solutions. By predicting which at-risk customers are likely to churn, forecasting how this impact future revenues, assessing whether retention campaigns are effective or not and identify which customers best respond to our retention campaigns to improve long-term value.
+#### Report available at: https://kaplanausstudent-my.sharepoint.com/:w:/g/personal/1847578_kaplanstudent_edu_au/IQD5wDS5W3egQolc720n9mI4AVkVtdJQ7xzuALRaVgYVtSk?e=mZa2sa
+#### Code available at: https://colab.research.google.com/drive/13UjA4YWv-ajms9kKqmGpbAHC5gT7tvYf?usp=sharing
 
 # Education
 
