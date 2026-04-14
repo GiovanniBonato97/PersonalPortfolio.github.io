@@ -14,11 +14,11 @@
 ## AI learnings
 
 #### - 1) This analysis used AI-driven document retrieval, similarity analysis, and customer review mining to evaluate MobTel’s retail performance.
-#### Report available at: https://kaplanausstudent-my.sharepoint.com/:w:/g/personal/1847578_kaplanstudent_edu_au/IQCODDBx68DPQZeMw5S-WUeAAfhta0NVi6vVsrEtT12lGCY?e=8fgQXg
+#### Report available at: https://kaplanausstudent-my.sharepoint.com/:w:/r/personal/1847578_kaplanstudent_edu_au/Documents/Giovanni_Bonato_1847578_-_Assessment_3_Data5000.docx?d=wcb711a7046df491ba82499ccafe717aa&csf=1&web=1&e=HpZ2xN
 #### Code available at: https://colab.research.google.com/drive/1aWUAZSrQQaWvzT2F4MRDRILqCXNVa_0v
 
 #### -2) This report aims to develop an effective strategy to improve customer retention and optimize revenues for TechSaaS Solutions. By predicting which at-risk customers are likely to churn, forecasting how this impact future revenues, assessing whether retention campaigns are effective or not and identify which customers best respond to our retention campaigns to improve long-term value.
-#### Report available at: https://kaplanausstudent-my.sharepoint.com/:w:/g/personal/1847578_kaplanstudent_edu_au/IQD5wDS5W3egQolc720n9mI4AVkVtdJQ7xzuALRaVgYVtSk?e=mZa2sa
+#### Report available at: [https://kaplanausstudent-my.sharepoint.com/:w:/g/personal/1847578_kaplanstudent_edu_au/IQCODDBx68DPQZeMw5S-WUeAAfhta0NVi6vVsrEtT12lGCY?e=8fgQXg](https://kaplanausstudent-my.sharepoint.com/:w:/r/personal/1847578_kaplanstudent_edu_au/Documents/33395_Giovanni_Bonato_Bonato_Giovanni_1847578_-_Assessment_1__Data5000__509136_1896701805.docx?d=w1b6f9d797a324f7ab5ef3a453630400c&csf=1&web=1&e=V8zzOt)
 #### Code available at: https://colab.research.google.com/drive/13UjA4YWv-ajms9kKqmGpbAHC5gT7tvYf?usp=sharing
 
 # Education
